@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajoykumarlal
 - 👀 I’m interested in Networking
-- 🌱 I’m currently working as Talent Intelligence Advisor at Centene Corporation
+- 🌱 I’m currently working as Lead Talent Intelligence Advisor at Centene Corporation
 - 📫 How to reach me Ajoy.K.Lal@Centene.com
 
 <!---
